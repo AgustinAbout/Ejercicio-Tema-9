@@ -1,0 +1,31 @@
+class Persona{
+
+        public static void main(String[] args) {
+
+        string Nombre
+        int Edad
+        int telefono
+
+
+        }
+}
+
+class Cliente extends Persona {
+int credito
+
+    Cliente cliente = new Cliente();
+    cliente.edad = 29;
+    cliente.nombre = "Martin";
+    cliente.telefono = 123456;
+    cliente.credito = 10000;
+         system.out.println (cliente.getCliente());
+
+}
+ class Trabajador extends Persona{
+
+    int salario
+            Trabajador trabajador = new Trabajador
+                    trabajador.salario = 15000;
+
+    system.out.println (trabajador.getTrabajador());
+ }
